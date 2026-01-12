@@ -1,50 +1,120 @@
-# 👋 Hi there, I'm Chiamaka!
+👋 Hi there, I'm Chiamaka!
+I'm a Full-Stack Web Developer passionate about building clean, responsive, and user-friendly web applications with a focus on performance, accessibility, and seamless user experiences across the entire stack.
 
-I'm a passionate *Front-End Developer* on my journey to becoming a *Full-Stack Developer*. I enjoy building clean, responsive, and user-friendly web interfaces with a focus on performance and accessibility.
+💻 Tech Stack
+Frontend:
 
----
+🌐 HTML5, CSS3, Tailwind CSS
+⚡ JavaScript (ES6+, DOM manipulation, Vanilla JS)
 
-### 💻 Tech Stack
+Backend:
 
-- 🌐 HTML5, CSS3, Tailwind CSS  
-- ⚡ JavaScript (Vanilla, DOM manipulation, ES6+)  
-- 🐘 PHP (currently learning)  
-- 🚀 Laravel (in progress)
+🐘 PHP
+🚀 Laravel
+🛠 Appwrite Backend Services
+🔄 REST API Development
 
----
 
-### 🧩 Featured Projects
+🧩 Featured Projects
+🔍 RouteMaster
 
-#### 🔍 RouteMaster
-> A real-time parcel tracking dashboard using Leaflet.js, animated markers, and delivery status updates.
+A real-time parcel tracking dashboard featuring interactive maps with Leaflet.js, animated delivery markers, and live status updates for seamless package monitoring.
 
-#### 📦 AuthDash
-> An admin dashboard for managing deliveries, with secure authentication powered by Appwrite.
+📦 AuthDash
 
-#### 🧰 ProductTrack
-> A JavaScript-powered frontend that fetches product data and visualizes delivery progress with loaders and live map tracking.
+A secure admin dashboard for delivery management with role-based authentication powered by Appwrite, featuring user management and real-time delivery tracking.
 
-#### 🥗 NutriBlog
-> A responsive and informative blog site focused on nutrition and wellness, designed with clean layouts and user-friendly navigation.
+🧰 ProductTrack
 
-#### 🧮 Calculator App
-> A simple yet functional calculator built with HTML, CSS, and JavaScript, focusing on logic handling and UI responsiveness.
+A dynamic product tracking application with JavaScript-powered frontend that fetches data via API, visualizes delivery progress with custom loaders, and provides live map tracking.
 
----
+🥗 NutriBlog
 
-### 🌱 Currently Learning
+A fully responsive nutrition and wellness blog with clean, modern design, intuitive navigation, and optimized content layouts for enhanced readability.
 
-- 🔄 Laravel & REST API Development  
-- 🛠 Appwrite Backend Services  
-- 🐘 Deeper PHP Concepts  
+🧮 Calculator App
 
----
+A functional calculator application built with HTML, CSS, and JavaScript, demonstrating clean UI design and robust mathematical logic handling.
 
-### 📫 Let's Connect!
 
-- 🌍 [Portfolio (coming soon)]()  
-- 📧 Email: chiamakavictoria460@gmail.com  
+🚀 What I'm Working On
 
----
+Building scalable full-stack applications with Laravel
+Implementing secure authentication and authorization systems
+Creating RESTful APIs and integrating third-party services
+Optimizing application performance and user experience
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+📫 Let's Connect!
+
+🌍 Portfolio (coming soon)
+📧 Email: chiamakavictoria460@gmail.com
+
+
+
+"Code is like humor. When you have to explain it, it's bad." – Cory House
+
+
+Great work on your journey to full-stack development, Chiamaka! Would you like me to help you add any specific new projects you've built, or adjust any other sections? I can also help you create a proper portfolio site when you're ready! 🚀add my full stack projects, an event management system and a hospital management system based on cardiology8:50 AM👋 Hi there, I'm Chiamaka!
+I'm a Full-Stack Web Developer passionate about building clean, responsive, and user-friendly web applications with a focus on performance, accessibility, and seamless user experiences across the entire stack.
+
+💻 Tech Stack
+Frontend:
+
+🌐 HTML5, CSS3, Tailwind CSS
+⚡ JavaScript (ES6+, DOM manipulation, Vanilla JS)
+
+Backend:
+
+🐘 PHP
+🚀 Laravel
+🛠 Appwrite Backend Services
+🔄 REST API Development
+
+
+🧩 Featured Projects
+🎉 EventHub – Event Management System
+
+A comprehensive full-stack event management platform built with Laravel. Features include event creation and registration, attendee management, real-time booking system, automated email notifications, and an intuitive admin dashboard for organizers to track RSVPs and manage event details.
+
+🏥 Cardiocare – Hospital Management System
+
+A specialized cardiology hospital management system designed to streamline patient care. Includes patient registration and medical records management, appointment scheduling for cardiology consultations, doctor and staff management, secure role-based access control, and prescription tracking tailored for cardiac care workflows.
+
+🔍 RouteMaster
+
+A real-time parcel tracking dashboard featuring interactive maps with Leaflet.js, animated delivery markers, and live status updates for seamless package monitoring.
+
+📦 AuthDash
+
+A secure admin dashboard for delivery management with role-based authentication powered by Appwrite, featuring user management and real-time delivery tracking.
+
+🧰 ProductTrack
+
+A dynamic product tracking application with JavaScript-powered frontend that fetches data via API, visualizes delivery progress with custom loaders, and provides live map tracking.
+
+🥗 NutriBlog
+
+A fully responsive nutrition and wellness blog with clean, modern design, intuitive navigation, and optimized content layouts for enhanced readability.
+
+🧮 Calculator App
+
+A functional calculator application built with HTML, CSS, and JavaScript, demonstrating clean UI design and robust mathematical logic handling.
+
+
+🚀 What I'm Working On
+
+Building scalable full-stack applications with Laravel
+Implementing secure authentication and authorization systems
+Creating RESTful APIs and integrating third-party services
+Optimizing application performance and user experience
+
+
+📫 Let's Connect!
+
+🌍 Portfolio (coming soon)
+📧 Email: chiamakavictoria460@gmail.com
+
+
+
+"Code is like humor. When you have to explain it, it's bad." – Cory House
