@@ -47,7 +47,7 @@ Optimizing application performance and user experience
 
 📫 Let's Connect!
 
-🌍 Portfolio (coming soon)
+🌍 Portfolio (http://127.0.0.1:5500/My%20portfolio/index.html)
 📧 Email: chiamakavictoria460@gmail.com
 
 
